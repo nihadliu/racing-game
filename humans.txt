@@ -1,0 +1,13 @@
+/* TEAM */
+
+Developer: Nihad Liu Karajko
+Site: https://github.com/nihadliu
+Twitter: @nihadliu
+Location: Vitez, Bosnia and Herzegovina
+
+/* SITE */
+
+Last Update: 2018/08/02
+Standards: HTML5
+Components: JavaScript
+Software: GIMP 2.8.18
